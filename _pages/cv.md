@@ -27,4 +27,4 @@ redirect_from:
   * Topic: Using stochastic modeling to better understand E. coli's metabolic heterogeneity
   * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
 
-Find my detailled CV [here](/files/CV.pdf)
+Find my detailled CV [here](/files/CV.pdf).
