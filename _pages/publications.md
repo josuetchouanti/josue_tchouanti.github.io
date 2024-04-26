@@ -13,11 +13,11 @@ Preprints
 
 International journals with review
 ------
-1. **J. Tchouanti**. Well posedness and stochastic derivation of a diffusion-growth-fragmentation equation in a chemostat. *Stoch. PDE: Anal. Comp.* (2023). DOI: [10.1007/s40072-023-00288-8](); See [arXiv]()
-1. M. Barthe, **J. Tchouanti**, P. H. Gomes, C. Bideaux, D. Lestrade, C. Graham, J.P. Steyer, S. Méléard, J. Harmand, N. Gorret, M. Cocaign-Bousquet, B. Enjalbert. Availability of the Molecular Switch XylR Controls Phenotypic Heterogeneity and Lag Duration during Escherichia coli Adaptation from Glucose to Xylose. *mBio* 11 (6) e02938-20 (2020). DOI: [10.1128/mBio.02938-20](); See [HAL]()
-1. C. Graham, J. Harmand, S. Méléard, **J. Tchouanti**. Bacterial Metabolic Heterogeneity: from Stochastic to Deterministic Models. *Mathematical Biosciences and Engineering* 17 (5), 5120-5133 (2020). DOI: [10.3934/mbe.2020276](); See [arXiv]()
+1. **J. Tchouanti**. Well posedness and stochastic derivation of a diffusion-growth-fragmentation equation in a chemostat. *Stoch. PDE: Anal. Comp.* (2023). DOI: [10.1007/s40072-023-00288-8](https://doi.org/10.1007/s40072-023-00288-8); See [arXiv](https://arxiv.org/abs/2203.10809)
+1. M. Barthe, **J. Tchouanti**, P. H. Gomes, C. Bideaux, D. Lestrade, C. Graham, J.P. Steyer, S. Méléard, J. Harmand, N. Gorret, M. Cocaign-Bousquet, B. Enjalbert. Availability of the Molecular Switch XylR Controls Phenotypic Heterogeneity and Lag Duration during Escherichia coli Adaptation from Glucose to Xylose. *mBio* 11 (6) e02938-20 (2020). DOI: [10.1128/mBio.02938-20](https://doi.org/10.1128/mBio.02938-20); See [HAL](https://hal.science/hal-03096881)
+1. C. Graham, J. Harmand, S. Méléard, **J. Tchouanti**. Bacterial Metabolic Heterogeneity: from Stochastic to Deterministic Models. *Mathematical Biosciences and Engineering* 17 (5), 5120-5133 (2020). DOI: [10.3934/mbe.2020276](https://doi.org/10.3934/mbe.2020276); See [arXiv](https://arxiv.org/abs/2005.08861)
 
 
 Conference papers
 ------
-1. F. Dupeuble, A. Rapaport, T. Guilmeau, **J. Tchouanti**, B. Enjalbert, C. Bideaux, J. Philippe Steyer, A. Feddaoui-Papin, J. Harmand. Deterministic models to decipher the lag phase duration during diauxie. *IFAC-PapersOnLine* 55(20):481-486. 10th Vienna International Conference on Mathematical Modelling (2022). DOI: [10.1016/j.ifacol.2022.09.141](); See [HAL]() 
+1. F. Dupeuble, A. Rapaport, T. Guilmeau, **J. Tchouanti**, B. Enjalbert, C. Bideaux, J. Philippe Steyer, A. Feddaoui-Papin, J. Harmand. Deterministic models to decipher the lag phase duration during diauxie. *IFAC-PapersOnLine* 55(20):481-486. 10th Vienna International Conference on Mathematical Modelling (2022). DOI: [10.1016/j.ifacol.2022.09.141](https://doi.org/10.1016/j.ifacol.2022.09.141); See [HAL](https://hal.science/hal-03610317v1) 
