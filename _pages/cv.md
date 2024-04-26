@@ -17,7 +17,7 @@ redirect_from:
   * Topic: Testing mean-field models
   * Supervisors: Eva Locherbach, Patricia Reynaud-Bouret, Etienne Tanré
 
-* Oct. 2018 - Oct. 2021: Ph.D in Applied Mathematics, CMAP Ecole polytechnique, France.
+* Oct. 2018 - Sept. 2021: Ph.D in Applied Mathematics, CMAP Ecole polytechnique, France.
   * Topic: Deterministic and stochastic approache to modeling bacterial metabolic heterogeneity
   * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
   * Defended on 28th september 2021
