@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+#Work experience
+#------
+* Since Nov. 2023: Postdoc researcher in UMPA, ENS Lyon, France.
+  * Topic: Multiscale approaches and phenotypic diversity
+  * Supervisor: Hélène Leman, Hélène Morlon, Amaury Lambert
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct. 2021 - Oct. 2023: Postdoc reseacher in Neuromod Institute, Univ. Côte d'Azur, France.
+  * Topic: Testing mean-field models
+  * Supervisors: Eva Locherbach, Patricia Reynaud-Bouret, Etienne Tanré
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2018 - Oct. 2021: Ph.D in Applied Mathematics, CMAP Ecole polytechnique, France.
+  * Topic: Deterministic and stochastic approache to modeling bacterial metabolic heterogeneity
+  * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
+  * Defended on 28th september 2021
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017 - 2018: M.Sc. [Probability, Statistics and applications to live sciences](https://m2psav.master.edu-math.org/), University Félix-Houphouet Boigny, Côte-d'Ivoire.
+  * Masters intership in CMAP Ecole polytechnique, France (3 months)
+  * Topic: Using stochastic modeling to better understand E. coli's metabolic heterogeneity
+  * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+#Education
+#------
+#* Master 2
+#* M.S. in Jekyll, GitHub University, 2014
+#* B.S. in GitHub, GitHub University, 2012
+
