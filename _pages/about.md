@@ -12,7 +12,7 @@ I am a postdoc researcher in Unité de Mathématiques Pures et Appliquées - ENS
 
 Research interest
 ------
-The core of my reseach activity is the construction and study of deterministic/stochastic models of complex phenomena from Biology and life sciences. More precisely, I my work focuses on mathematical tools for applications in population genetics, (Meta)population dynamics, epidemiology, neuroscience and cell metabolism. 
+The core of my reseach activity is the construction and study of deterministic/stochastic models of complex phenomena from Biology and life sciences. More precisely, my work focuses on mathematical tools for applications in population genetics, (Meta)population dynamics, epidemiology, neuroscience and cell metabolism. 
 
 
 **Some keywords**
