@@ -31,4 +31,4 @@ redirect_from:
 
 
 
-Find my detailled CV [here](/files/CV.pdf).
+Find my detailed CV [here](/files/CV.pdf).
