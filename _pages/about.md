@@ -19,4 +19,5 @@ The core of my reseach activity is the construction and study of deterministic/s
 - Individual-Based models and their scaling limits,
 - Slow/fast stochastic dynamics,
 - Piecewise Deterministic Markov Processes (PDMP),
+- Test of synchronisation,
 - Hawkes process
