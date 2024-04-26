@@ -26,3 +26,5 @@ redirect_from:
   * Masters intership in CMAP Ecole polytechnique, France (3 months)
   * Topic: Using stochastic modeling to better understand E. coli's metabolic heterogeneity
   * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
+
+Find my detailled CV [here](/files/CV.pdf)
