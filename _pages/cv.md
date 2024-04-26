@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-#Work experience
-#------
 * Since Nov. 2023: Postdoc researcher in UMPA, ENS Lyon, France.
   * Topic: Multiscale approaches and phenotypic diversity
   * Supervisor: Hélène Leman, Hélène Morlon, Amaury Lambert
@@ -24,15 +22,7 @@ redirect_from:
   * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
   * Defended on 28th september 2021
 
-* 2017 - 2018: M.Sc. [Probability, Statistics and applications to live sciences](https://m2psav.master.edu-math.org/), University Félix-Houphouet Boigny, Côte-d'Ivoire.
+* 2017 - 2018: M.Sc. [Probability, Statistics and applications to live sciences](https://m2psav.master.edu-math.org/), Univ. Félix-Houphouet Boigny, Côte-d'Ivoire.
   * Masters intership in CMAP Ecole polytechnique, France (3 months)
   * Topic: Using stochastic modeling to better understand E. coli's metabolic heterogeneity
   * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
-
-
-#Education
-#------
-#* Master 2
-#* M.S. in Jekyll, GitHub University, 2014
-#* B.S. in GitHub, GitHub University, 2012
-
