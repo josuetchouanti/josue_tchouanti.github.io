@@ -21,7 +21,7 @@ repository               : "josuetchouanti/josuetchouanti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Josué TCHOUANTI"
   pronouns         : # example: "she/her"  
   bio              : "Post-doc Researcher in Applied Mathematics"
