@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Since Nov. 2024: Starting Research Position in the INRIA Center of Saclay, team [LIFEWARE](http://lifeware.inria.fr/).
-  Topic: Individual-based modeling of coupled single-cell and cell population processes.
+  * Topic: Individual-based modeling of coupled single-cell and cell population processes.
 
 * Nov. 2023 - Oct. 2024: Postdoc researcher in UMPA, ENS Lyon, France.
   * Topic: Multiscale approaches and phenotypic diversity
