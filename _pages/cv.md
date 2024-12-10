@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-* Since Nov. 2023: Postdoc researcher in UMPA, ENS Lyon, France.
+* Since Nov. 2024: Starting Research Position in the INRIA Center of Saclay, team [LIFEWARE](http://lifeware.inria.fr/).
+  Topic: Individual-based modeling of coupled single-cell and cell population processes.
+
+* Nov. 2023 - Oct. 2024: Postdoc researcher in UMPA, ENS Lyon, France.
   * Topic: Multiscale approaches and phenotypic diversity
   * Supervisor: Hélène Leman, Hélène Morlon, Amaury Lambert
 
@@ -18,7 +21,7 @@ redirect_from:
   * Supervisors: Eva Locherbach, Patricia Reynaud-Bouret, Etienne Tanré
 
 * Oct. 2018 - Sept. 2021: Ph.D in Applied Mathematics, CMAP Ecole polytechnique, France.
-  * Topic: Deterministic and stochastic approache to modeling bacterial metabolic heterogeneity
+  * Topic: Deterministic and stochastic approaches to modeling bacterial metabolic heterogeneity
   * Supervisors: Sylvie Méléard, Carl Graham, Jérôme Harmand 
   * Defended on 28th september 2021
 
