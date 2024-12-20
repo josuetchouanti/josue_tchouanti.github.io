@@ -24,11 +24,11 @@ author:
   avatar           : "myprofile.jpg"
   name             : "Josué TCHOUANTI"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doc Researcher in Applied Mathematics"
-  location         : "UMPA, ENS de Lyon, France"
+  bio              : "Researcher in Applied Mathematics"
+  location         : "INRIA Center of Saclay, Palaiseau, France"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "josue.tchouanti_fotso@ens-lyon.fr" 
+  email            : "josue.tchouanti-fotso@inria.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
